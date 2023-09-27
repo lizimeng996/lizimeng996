@@ -4,7 +4,7 @@
   <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="30" />
 </h3>
 
-<a href="[http://172.21.213.232:9000/lizimeng](https://github.com/lizimeng996)">
+<a href="[https://github.com/lizimeng996]">
   <div align="right" >
     <img align="right" src="https://count.getloli.com/get/@:lizimeng996?theme=rule34" alt="李仔蒙" />
   </div>
